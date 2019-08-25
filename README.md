@@ -16,9 +16,9 @@ install Elasticsearch
 pip install elasticsearch
 ```
 download and unzip the file
-```
+
 [choose according to your machine](https://www.elastic.co/downloads/elasticsearch)
-```
+
 
 
 
