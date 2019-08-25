@@ -29,13 +29,13 @@ run via cmd (on windows)
 ```
 .\bin\elasticsearch.bat
 ```
-2- run __init__.py
+2- run __init__.py (via cmd)
 ```
 python __init__.py
 ```
 ## Built using 
 * data from kaggle :[hotel_reviews](https://www.kaggle.com/datafiniti/hotel-reviews)
-* IBM Tone Analyzer : [Waston pyrhon lib](https://cloud.ibm.com/apidocs/tone-analyzer?code=python#analyze-customer-engagement-tone)
+* IBM Tone Analyzer : [Waston python lib](https://cloud.ibm.com/apidocs/tone-analyzer?code=python#analyze-customer-engagement-tone)
 * Elasticsearch for search Engine : [Getting started](https://medium.com/naukri-engineering/elasticsearch-tutorial-for-beginners-using-python-b9cb48edcedc)
 
 
